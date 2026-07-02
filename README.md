@@ -4,7 +4,8 @@ An interactive Power BI dashboard analyzing sales, revenue, and customer data fo
 
 ## 📊 Dashboard Preview
 
-<img width="631" height="338" alt="Screenshot 2026-07-02 110354" src="https://github.com/user-attachments/assets/2c320633-b13f-494b-94f8-fce2cb0ea94f" />
+<img width="605" height="338" alt="Screenshot 2026-07-01 134446" src="https://github.com/user-attachments/assets/d6a5b590-e5b4-40b2-9bcd-706567da5f70" />
+
 
 
 
